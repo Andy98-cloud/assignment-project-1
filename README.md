@@ -12,6 +12,13 @@ Fork the repository from Github: https://github.com/Andy98-cloud/assignment-proj
 Clone the link
 Open the link from where the repository is saved
 
+Features
+As a user of this website you'll be required to:
+
+Click on the product section on the top bar navigation.
+Select a category based on gender.
+Select which type of clothing material that you desire.
+
 
 Known Bugs -
 None.
@@ -22,4 +29,5 @@ HTML - For building the user interface
 
 CSS - For styling the user interface
 
-© 2021 Andrew Max Mbugua
+JAVASCRIPT - For Having  a responsive Topbar naviation
+MIT Copyright (c) 2021 MITlicense
